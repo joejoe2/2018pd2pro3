@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>player.png</file>
+        <file>player2.png</file>
+        <file>enemy.png</file>
+        <file>bullet.png</file>
+        <file>bullet2.png</file>
+        <file>op.mp3</file>
+        <file>win.mp3</file>
+        <file>battle.mp3</file>
+        <file>stage.jpg</file>
+</qresource>
+</RCC>
